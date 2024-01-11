@@ -1,0 +1,35 @@
+Tools Needed
+    VS Code
+    Github Account
+    Jira Account
+    Github Copilot
+    Node JS
+    Firebase Account
+
+Github Comments for Colloborators.
+    1. Create a folder in your desktop
+    2. Open the folder using VS Code
+    3. In VS Code terminal
+        1. git init
+        2. git remote add origin https://github.com/Karthick01234/SRK-Tech.git
+        3. git pull origin main
+    4. Do your Changes in the Codes
+        4. git branch -b "new-branch-name-to-push-code"
+        5. git checkout "new-branch-name-to-push-code"
+        6. git push origin "new-branch-name-to-push-code"
+    5. open github website and raise pull request from ur branch to main
+    6. wait until the merge request is approved if not approved.
+    7. Do changes in the code and push it ur branch and raise request until it gets approved.
+    
+For every Tasks
+
+Repeat the steps 
+
+``` 3. git pull origin main
+    4. Do your Changes in the Codes
+        4. git branch -b "new-branch-name-to-push-code"
+        5. git checkout "new-branch-name-to-push-code"
+        6. git push origin "new-branch-name-to-push-code"
+    5. open github website and raise pull request from ur branch to main
+    6. wait until the merge request is approved if not approved.
+    7. Do changes in the code and push it ur branch and raise request until it gets approved.```
