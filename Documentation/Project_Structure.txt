@@ -1,0 +1,39 @@
+Rules to follow when writion codes
+
+    1. proper Naming Standards
+    2. create reusable components
+    3. code must have better readability
+    4. when creating github temporary branch use name fitting the feature Tasks
+
+
+Project
+    ---Documentation - Contains project documentation
+    ---node_modules - Contains project dependency packages
+    ---public - Contains all the neccessary front end development files css, js and images
+    ---model - Contains table scehma inorder to working with data
+    ---Controller - Contains inbetween logic for both view and model
+    ---view - Contains actuall ui codes
+    ---routes - Contains routing codes
+    ---util - Contains neccessary Configuration like db,mail and other variables used through out the project
+    ---app.JS - Entry point of the project
+    ---package-lock.json - related to node js
+    ---package.json - related to node js
+
+In this project we are dividing the project into different component like Home page, login page, signup page etc
+
+Each page is an single component 
+
+Each component must be developed by following above project structure 
+Put all the respective file under common folder and put into repective project structure folder
+For Eg we have Home page component it have views, routes, controller codes 
+For view create folder with name home in view folder and put the code in it
+    ---view
+        ---home
+            ---home.html
+    ---controller
+        ---home
+           ---home.js
+
+like follow proper structure for every component
+
+    
