@@ -14,7 +14,7 @@ Github Comments for Colloborators.
         2. git remote add origin https://github.com/Karthick01234/SRK-Tech.git
         3. git pull origin Development
     4. Do your Changes in the Codes
-        4. git branch -b "new-branch-name-to-push-code"
+        4. git branch "new-branch-name-to-push-code"
         5. git checkout "new-branch-name-to-push-code"
         6. git push origin "new-branch-name-to-push-code"
     5. open github website and raise pull request from ur branch to Development branch
@@ -27,7 +27,7 @@ Repeat the steps
 
 ``` 3. git pull origin Development
     4. Do your Changes in the Codes
-        4. git branch -b "new-branch-name-to-push-code"
+        4. git branch "new-branch-name-to-push-code"
         5. git checkout "new-branch-name-to-push-code"
         6. git push origin "new-branch-name-to-push-code"
     5. open github website and raise pull request from ur branch to Development branch
