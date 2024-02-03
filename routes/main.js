@@ -1,14 +1,7 @@
 const express = require("express");
+const home = require("../controllers/main/index");
 const routes = express.Router();
 
-routes.get("/", (req, res, next) => {
-  res.render();
-});
+routes.get("/", home.sendHome);
 
-routes.get("/", (req, res, next) => {
-  res.render();
-});
-
-routes.get("/", (req, res, next) => {
-  res.render();
-});
+module.exports = routes;
